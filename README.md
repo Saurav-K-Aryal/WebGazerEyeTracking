@@ -4,7 +4,7 @@ Required installation - python, browser (anything but Safari)
 
 ```
 git clone <THIS REPO>
-cd eyeTrackerWeb
+cd WebGazerEyeTracking
 python -m http.server
 ```
 Note: assumes `python` command is python3. Your installation may require using `python3` instead.
